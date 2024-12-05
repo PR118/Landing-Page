@@ -1,7 +1,5 @@
 This is my web page project.
 
-Web link: https://pr118.github.io/Landing-Page/
-
 Photo Credit
 
 Header: 
